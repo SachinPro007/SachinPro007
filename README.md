@@ -86,7 +86,7 @@ That said, I’ve been working on real-world frontend projects long before that.
 
 ### 🌐 Let’s Connect
 
-- 🔗 [**LinkedIn**](https://www.linkedin.com/in/sachinsehrawat)    
+- 🔗 [**LinkedIn**](https://www.linkedin.com/in/sachinpro/) 
 - 🌍 [**Portfolio**](https://totalwebsolution.in/)  
 - 📧 **Email:** [sachin@totalwebsolution.in](mailto:sachin@totalwebsolution.in)  
 

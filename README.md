@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sachin Sehrawat</h1>
 
 <p align="center">
-  🚀 Frontend Developer • ⚛️ React Specialist • 🎨 UI/UX Enthusiast
+  🚀 Frontend Developer • ⚛️ React Specialist • 🎨 UI/UX Focused
 </p>
 
 <p align="center">
-  I build sleek, fast, and user-centric web apps using modern frontend technologies. My focus? Clean design, smooth interaction, and optimized performance.
+  I craft fast, responsive, and interactive web apps using modern frontend technologies. My focus? Clean design, fluid animations, and optimized performance.
 </p>
 
 ---
@@ -28,68 +28,66 @@
 ![TanStack Query](https://img.shields.io/badge/TanStack--Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 
-#### ⚙️ Tools
+#### ⚙️ Tools & Workflow
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![AI Tools](https://img.shields.io/badge/AI%20Tools-9146FF?style=for-the-badge&logo=openai&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-
 ---
 
-### 📌 Featured Projects
+### 🚀 Featured Projects
 
-- **⚡ eCommerce Platform**  
-  Fast product discovery, optimized checkout, and responsive UI — built from the ground up with React, Redux Toolkit, and Tailwind CSS.
+- **🛒 ShopEase – eCommerce Platform**  
+  Built from scratch with React, Redux Toolkit, and Tailwind CSS. Includes debounced search, tabbed filters, optimized checkout, and real-time cart sync.
 
-- **✅ Task Manager**  
-  A role-based task app with real-time UI updates and elegant UX. Fully frontend-built with animations and clean logic.
+- **✅ Click Task – Task Management App**  
+  Role-based task manager with interactive dashboards for Admin & Employee. Built with Context API, React Toastify, and responsive design patterns.
 
 - **🌐 Personal Portfolio**  
-  A theme-aware, animated portfolio powered by React and Framer Motion — showcasing skills, experience, and smooth microinteractions.
+  A fully animated, theme-aware portfolio built with React, Tailwind, and Framer Motion — with scroll-tied effects and a smooth user journey.
 
 ---
 
-### 🔒 Why My Code Isn't Public
+### 🔒 Why My Code Isn’t Public
 
-To **protect original work**, I’ve chosen not to upload full project code publicly.
-
-Open-source visibility on GitHub can lead to uncredited reuse, which might cause confusion or misrepresentation during hiring processes.
+To protect the originality of my work and avoid uncredited reuse, I’ve kept full project code private.
 
 Instead, I offer:
-- 🔗 **Live project demos**
-- 📹 **Screen share walkthroughs**
-- 🔐 **Private previews on request**
+- 🔗 Live demos  
+- 📹 Screen-share walkthroughs  
+- 🔐 Private access on request (for hiring managers & collaborators)
 
-> I believe in showing *how* I build — not just *what* I’ve built.
-
----
-
-### 🧭 A Note About GitHub Activity
-
-I officially joined GitHub on **June 19th, 2025**, so my public commit history is just getting started.
-
-That said, I’ve been working on real-world frontend projects long before that. Now that I’m active on GitHub, I’m consistently pushing code, refining my work, and sharing more projects regularly.
-
-> 🚀 Stay tuned — fresh content is on the way!
+> I believe in showing *how* I build, not just *what* I’ve built.
 
 ---
 
-### 🚧 Currently Leveling Up
+### 🧭 About My GitHub Activity
 
-- 🔁 Mastering **Git & GitHub** workflows for better collaboration  
-- 🧠 Practicing **DSA** for cleaner logic and sharper thinking  
-- 🌐 Learning **backend fundamentals** to transition into full-stack
+I began actively using GitHub starting **June 19th, 2025**, so my public contributions are just getting started.
+
+However, I’ve been building real-world frontend apps well before that. Now that I’ve joined GitHub officially, you’ll see:
+- More projects  
+- Consistent commits  
+- Shared snippets & walkthroughs
+
+> 🛠 Stay tuned — I’m just getting warmed up.
+
+---
+
+### 📚 Currently Leveling Up
+
+- 🚀 Mastering advanced frontend architecture patterns   
+- ⚡ Enhancing web performance and accessibility  
 
 ---
 
 ### 🌐 Let’s Connect
 
-- 🔗 [**LinkedIn**](https://www.linkedin.com/in/sachinpro/) 
-- 🌍 [**Portfolio**](https://totalwebsolution.in/)  
-- 📧 **Email:** [sachin@totalwebsolution.in](mailto:sachin@totalwebsolution.in)  
-
+- 🔗 [**LinkedIn**](https://www.linkedin.com/in/sachinpro/)  
+- 🌍 [**Portfolio Website**](https://totalwebsolution.in/)  
+- 📧 [**Email**](mailto:sachin@totalwebsolution.in)
 
 ---
 

@@ -8,20 +8,24 @@
   I craft fast, responsive, and interactive web apps using modern frontend technologies. My focus? Clean design, fluid animations, and optimized performance.
 </p>
 
+
 ---
 
 ### 🛠 Tech Stack
 
-#### 💻 Frontend
+#### 💻 Frontend & Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### ⚛️ Frontend Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer--Motion-EF4F7F?style=for-the-badge&logo=framer&logoColor=white)
 
-#### 🧠 State & Data
+#### 🧠 State & Data Management
 ![Redux Toolkit](https://img.shields.io/badge/Redux--Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![React Router](https://img.shields.io/badge/React--Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Context API](https://img.shields.io/badge/Context--API-61DAFB?style=for-the-badge&logo=react&logoColor=white)

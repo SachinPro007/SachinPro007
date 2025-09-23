@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sachin Sehrawat</h1>
 
 <p align="center">
-  🚀 Frontend Developer • ⚛️ React Specialist • 🎨 UI/UX Focused
+  Frontend Developer | React.js /Next.js & TypeScript | Faridabad, Haryana 
 </p>
 
 <p align="center">
-  I craft fast, responsive, and interactive web apps using modern frontend technologies. My focus? Clean design, fluid animations, and optimized performance.
+  I craft fast, responsive, and interactive web apps using modern frontend frameworks like Next.js and React. My focus? Clean design, fluid animations, and optimized performance.
 </p>
 
 
@@ -20,6 +20,7 @@
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 #### ⚛️ Frontend Frameworks & Libraries
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
@@ -43,14 +44,14 @@
 
 ### 🚀 Featured Projects
 
-- **🛒 ShopEase – eCommerce Platform**  
-  Built from scratch with React, Redux Toolkit, and Tailwind CSS. Includes debounced search, tabbed filters, optimized checkout, and real-time cart sync.
+- **🛒 ShopEase – eCommerce Platform**
+  Built from scratch with React, Redux Toolkit, and Tailwind CSS. Includes debounced search, tabbed filters, optimized checkout, and real-time cart sync.
 
-- **✅ Click Task – Task Management App**  
-  Role-based task manager with interactive dashboards for Admin & Employee. Built with Context API, React Toastify, and responsive design patterns.
+- **✅ Click Task – Task Management App**
+  Role-based task manager with interactive dashboards for Admin & Employee. Built with Context API, React Toastify, and responsive design patterns.
 
-- **🌐 Personal Portfolio**  
-  A fully animated, theme-aware portfolio built with React, Tailwind, and Framer Motion — with scroll-tied effects and a smooth user journey.
+- **🌐 Personal Portfolio**
+  A fully animated, theme-aware portfolio built with React, Tailwind, and Framer Motion — with scroll-tied effects and a smooth user journey.
 
 ---
 
@@ -59,8 +60,8 @@
 To protect the originality of my work and avoid uncredited reuse, I’ve kept full project code private.
 
 Instead, I offer:
-- 🔗 Live demos  
-- 📹 Screen-share walkthroughs  
+- 🔗 Live demos
+- 📹 Screen-share walkthroughs
 - 🔐 Private access on request (for hiring managers & collaborators)
 
 > I believe in showing *how* I build, not just *what* I’ve built.
@@ -72,8 +73,8 @@ Instead, I offer:
 I began actively using GitHub starting **June 19th, 2025**, so my public contributions are just getting started.
 
 However, I’ve been building real-world frontend apps well before that. Now that I’ve joined GitHub officially, you’ll see:
-- More projects  
-- Consistent commits  
+- More projects
+- Consistent commits
 - Shared snippets & walkthroughs
 
 > 🛠 Stay tuned — I’m just getting warmed up.
@@ -82,21 +83,22 @@ However, I’ve been building real-world frontend apps well before that. Now tha
 
 ### 📚 Currently Leveling Up
 
-- 🚀 Mastering advanced frontend architecture patterns   
-- ⚡ Enhancing web performance and accessibility  
+- ⚛️ Deepening my knowledge of **Next.js** architecture and API routes
+- 🚀 Mastering advanced frontend architecture patterns
+- ⚡ Enhancing web performance and accessibility
 
 ---
 
 ### 🌐 Let’s Connect
 
-- 🔗 [**LinkedIn**](https://www.linkedin.com/in/sachinpro/)  
-- 🌍 [**Portfolio Website**](https://totalwebsolution.in/)  
-- 📧 [**Email**](mailto:sachin@totalwebsolution.in)
+- 🔗 [**LinkedIn**](https://www.linkedin.com/in/sachinpro/)
+- 🌍 [**Portfolio Website**](https://sachinpro.vercel.app/)
+- 📧 [**Email**](mailto:mrsachinsehrawat07@gmail.com)
 
 ---
 
 <p align="center"><i>"I turn ideas into fast, functional, and beautiful web applications."</i></p>
 
 <p align="center">
-   <b>#ReactJS</b> • <b>#FrontendDevelopment</b> • <b>#WebPerformance</b> • <b>#UIUX</b>
+   <b>#NextJS</b> • <b>#ReactJS</b> • <b>#FrontendDevelopment</b> • <b>#WebPerformance</b> • <b>#UIUX</b>
 </p>

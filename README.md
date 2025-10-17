@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I craft fast, responsive, and interactive web apps using modern frontend frameworks like Next.js and React. My focus? Clean design, fluid animations, and optimized performance.
+  I craft fast, responsive, and interactive web apps using modern frontend frameworks like Next.js and React. My focus? Clean design, fluid animations, and optimized performance.....!
 </p>
 
 

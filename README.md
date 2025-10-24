@@ -55,19 +55,6 @@
 
 ---
 
-### 🔒 Why My Code Isn’t Public
-
-To protect the originality of my work and avoid uncredited reuse, I’ve kept full project code private.
-
-Instead, I offer:
-- 🔗 Live demos
-- 📹 Screen-share walkthroughs
-- 🔐 Private access on request (for hiring managers & collaborators)
-
-> I believe in showing *how* I build, not just *what* I’ve built.
-
----
-
 ### 🧭 About My GitHub Activity
 
 I began actively using GitHub starting **June 19th, 2025**, so my public contributions are just getting started.
@@ -78,14 +65,6 @@ However, I’ve been building real-world frontend apps well before that. Now tha
 - Shared snippets & walkthroughs
 
 > 🛠 Stay tuned — I’m just getting warmed up.
-
----
-
-### 📚 Currently Leveling Up
-
-- ⚛️ Deepening my knowledge of **Next.js** architecture and API routes
-- 🚀 Mastering advanced frontend architecture patterns
-- ⚡ Enhancing web performance and accessibility
 
 ---
 

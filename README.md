@@ -1,100 +1,95 @@
 <h1 align="center">Hi 👋, I'm Sachin Sehrawat</h1>
 
 <p align="center">
-  Full-Stack Developer | Next.js 16 • TypeScript • Modern Architecture | Noida, Uttar Pradesh
+  <b>Product Engineer</b> | Next.js 16 • Docker • DevOps • TypeScript | Noida, Uttar Pradesh
 </p>
 
 <p align="center">
-  I specialize in building high-performance, type-safe, and scalable full-stack web applications using the latest **Next.js App Router** patterns and **TypeScript**. Focused on advanced state management, professional code quality, and secure authentication (Clerk/Auth.js).
+  I specialize in building <b>production-ready</b> full-stack applications. I don't just write code; I ship containerized systems using <b>Docker</b>, automate deployments via <b>CI/CD pipelines</b>, and architect scalable backends with <b>Next.js</b> and <b>MERN</b>.
 </p>
 
 ---
 
 ### 🛠 Tech Stack & Core Competencies
 
+#### ☁️ DevOps & Infrastructure (New)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
 #### 💻 Frontend & Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-#### ⚛️ Frontend Frameworks & Libraries
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Shadcn/ui](https://img.shields.io/badge/Shadcn/ui-000000?style=for-the-badge&logo=react&logoColor=white)
-![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer--Motion-EF4F7F?style=for-the-badge&logo=framer&logoColor=white)
 
-#### 🧠 State & Data Management
-![TanStack Query](https://img.shields.io/badge/TanStack--Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux--Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-
-#### 🗄️ Backend & Database (MERN & Serverless)
+#### 🗄️ Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-**![Convex](https://img.shields.io/badge/Convex-000000?style=for-the-badge&logo=convex&logoColor=white)** *(NEW!)*
+![Convex](https://img.shields.io/badge/Convex-000000?style=for-the-badge&logo=convex&logoColor=white)
 
-#### 🔐 Authentication & Security
-**![Clerk](https://img.shields.io/badge/Clerk-000000?style=for-the-badge&logo=clerk&logoColor=white)** *(NEW!)*
-![Auth.js](https://img.shields.io/badge/Auth.js-000000?style=for-the-badge&logo=auth0&logoColor=white)
+#### 🧠 State, Security & Tools
+![TanStack Query](https://img.shields.io/badge/TanStack--Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux--Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-000000?style=for-the-badge&logo=clerk&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E67A6?style=for-the-badge&logo=zod&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
-![Bcrypt](https://img.shields.io/badge/Bcrypt-000000?style=for-the-badge&logo=keycdn&logoColor=white)
-
-#### ⚙️ Tools & Workflow
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white)
 ![Husky](https://img.shields.io/badge/Husky-000000?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Production Projects
 
-#### ⭐ Ezensi - AI Content Platform (In Development)
-**Flagship Full-Stack project** built with **Next.js 16** and **Convex**. Showcases advanced full-stack architecture, secure authentication via **Clerk**, and core features like an **AI Writing Studio** and smart scheduling designed for a **10x content creation speedup**.
+#### ⭐ [Ezensi - AI Content Platform (Live)](https://ezansi.onrender.com)
+**Flagship DevOps Project:** A fully containerized AI-blogging platform deployed on Render.
+- **Architecture:** Next.js 16 frontend + Convex Serverless backend + Google GenAI.
+- **DevOps:** Dockerized using Multi-Stage builds (Optimized to **~276MB**).
+- **CI/CD:** Automated deployment pipeline linking GitHub commits to production.
+- **Security:** Clerk Auth, Zod Validation, and HTTP-only cookie protection.
 
-#### 🔒 Next.js Full-Stack System (Security Focused)
-Production-grade application built on **Next.js (Server Actions/Route Handlers)** and external MySQL. Features custom, tamper-proof, cookie-based sessions with **HMAC verification**, Google OAuth, and strict user data isolation.
+#### 🌐 [Personal Portfolio (Live)](https://sachin-portfolio-qjbp.onrender.com/)
+High-performance portfolio showcasing advanced Docker optimization.
+- **Optimization:** Replaced Node.js with **Nginx** to serve static assets.
+- **Performance:** Achieved an ultra-lightweight Docker image size of **82MB**.
+- **Tech:** React, Framer Motion, Nginx, Docker.
 
-#### 🛒 ShopEase E-Commerce Platform
-Scalable eCommerce UI built with React and Redux Toolkit. Features advanced logic like debounced search and multi-dimensional filtering, achieving **90+ Lighthouse scores** and optimized TanStack Query caching.
+#### 🔒 Next.js Full-Stack System
+Production-grade application focusing on strict security.
+- **Core:** Next.js Server Actions, MySQL, and Custom Auth.
+- **Security:** Tamper-proof sessions with HMAC verification and Bcrypt hashing.
 
-#### 🌐 Personal Portfolio
-Fully animated portfolio with custom theming, built using Next.js, TypeScript, and **Framer Motion**. Features custom color management and high-quality UI/UX design.
+#### 🛒 ShopEase E-Commerce
+Scalable eCommerce UI achieving **90+ Lighthouse scores**.
+- **Tech:** React, Redux Toolkit, TanStack Query.
+- **Features:** Debounced search, advanced caching, and sub-second load times.
 
 ---
 
-### 📈 GitHub Activity
+### 📈 Engineering Philosophy
 
-I began actively using GitHub starting **June 19th, 2025**, and since then I've been consistently building and contributing:
+I transitioned from "tutorial code" to **"production engineering"** by focusing on:
 
-- 🏗️ **Architecting modern full-stack applications** using Next.js App Router and serverless backends (Convex).
-- 🔧 **Enforcing production-grade code** standards with **Husky** and pre-commit quality gates.
-- 📚 **Continuous learning** focusing on security, TypeScript type safety, and performance optimization.
-- 🚀 **Performance-focused** applications with optimized data fetching and state management.
+- 🐳 **Containerization:** Eliminating "it works on my machine" issues using Docker.
+- 🚀 **Automation:** Setting up CI/CD pipelines so deployment happens automatically.
+- 🛡️ **Type Safety:** Strict TypeScript and Zod validation across the full stack.
+- ⚡ **Performance:** Optimizing images, caching with TanStack Query, and using Nginx for static serving.
 
-> 💡 Currently enhancing my skills in Next.js App Router patterns and advanced full-stack architecture.
+> 💡 **Current Focus:** Advanced System Design and Unit Testing (Jest/RTL).
 
 ---
 
 ### 🌐 Let's Connect
 
 - 🔗 [**LinkedIn**](https://www.linkedin.com/in/sachinpro/)
-- 🌍 [**Portfolio Website**](https://sachinpro.vercel.app/)
+- 🌍 [**Live Portfolio**](https://your-portfolio-url.onrender.com)
 - 📧 [**Email**](mailto:mrsachinsehrawat07@gmail.com)
 - 💼 [**GitHub**](https://github.com/SachinPro007)
 
 ---
 
-<p align="center"><i>"Building scalable full-stack applications with modern architecture and production-grade workflows."</i></p>
+<p align="center"><i>"Turning complex requirements into shipped, containerized software."</i></p>
 
 <p align="center">
-     <b>#NextJS</b> • <b>#TypeScript</b> • <b>#FullStack</b> • <b>#Convex</b> • <b>#Clerk</b> • <b>#MERNStack</b>
+     <b>#Docker</b> • <b>#NextJS</b> • <b>#DevOps</b> • <b>#ProductEngineering</b>
 </p>

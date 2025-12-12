@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sachin Sehrawat</h1>
 
 <p align="center">
-  <b>Product Engineer</b> | Next.js • Docker • DevOps • TypeScript | Noida, Uttar Pradesh
+  <b>Frontend & MERN Stack Developer</b> | Next.js • Docker • DevOps • TypeScript | Noida, Uttar Pradesh
 </p>
 
 <p align="center">

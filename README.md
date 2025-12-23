@@ -36,6 +36,7 @@
 ![Clerk](https://img.shields.io/badge/Clerk-000000?style=for-the-badge&logo=clerk&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E67A6?style=for-the-badge&logo=zod&logoColor=white)
 ![Husky](https://img.shields.io/badge/Husky-000000?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
@@ -71,11 +72,10 @@ Scalable eCommerce UI achieving **90+ Lighthouse scores**.
 I transitioned from "tutorial code" to **"production engineering"** by focusing on:
 
 - 🐳 **Containerization:** Eliminating "it works on my machine" issues using Docker.
+- 📋 **Professional Workflow:** Managing development lifecycles with **Jira & Agile** to deliver features systematically.
 - 🚀 **Automation:** Setting up CI/CD pipelines so deployment happens automatically.
 - 🛡️ **Type Safety:** Strict TypeScript and Zod validation across the full stack.
 - ⚡ **Performance:** Optimizing images, caching with TanStack Query, and using Nginx for static serving.
-
-> 💡 **Current Focus:** Advanced System Design and Unit Testing (Jest/RTL).
 
 ---
 

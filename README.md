@@ -82,7 +82,7 @@ I transitioned from "tutorial code" to **"production engineering"** by focusing 
 ### 🌐 Let's Connect
 
 - 🔗 [**LinkedIn**](https://www.linkedin.com/in/sachinpro/)
-- 🌍 [**Live Portfolio**](https://your-portfolio-url.onrender.com)
+- 🌍 [**Live Portfolio**](https://sachinpro.vercel.app/)
 - 📧 [**Email**](mailto:mrsachinsehrawat07@gmail.com)
 - 💼 [**GitHub**](https://github.com/SachinPro007)
 

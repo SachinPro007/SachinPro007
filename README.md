@@ -42,14 +42,14 @@
 
 ### 🚀 Featured Production Projects
 
-#### ⭐ [Ezensi - AI Content Platform (Live)](https://ezansi.onrender.com)
+#### ⭐ [Ezensi - AI Content Platform (Live)](https://ezensi.vercel.app/)
 **Flagship DevOps Project:** A fully containerized AI-blogging platform deployed on Render.
 - **Architecture:** Next.js 16 frontend + Convex Serverless backend + Google GenAI.
 - **DevOps:** Dockerized using Multi-Stage builds (Optimized to **~276MB**).
 - **CI/CD:** Automated deployment pipeline linking GitHub commits to production.
 - **Security:** Clerk Auth, Zod Validation, and HTTP-only cookie protection.
 
-#### 🌐 [Personal Portfolio (Live)](https://sachin-portfolio-qjbp.onrender.com/)
+#### 🌐 [Personal Portfolio (Live)](https://sachinpro.vercel.app/)
 High-performance portfolio showcasing advanced Docker optimization.
 - **Optimization:** Replaced Node.js with **Nginx** to serve static assets.
 - **Performance:** Achieved an ultra-lightweight Docker image size of **82MB**.

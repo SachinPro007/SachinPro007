@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sachin Sehrawat</h1>
 
 <p align="center">
-  <b>Frontend & MERN Stack Developer</b> | Next.js • Docker • DevOps • TypeScript | Noida, Uttar Pradesh
+  <b>MERN Stack Developer | Next.js | React.js | TypeScript | Node.js | Express.js | MongoDB | Noida, Uttar Pradesh
 </p>
 
 <p align="center">
-  I specialize in building <b>production-ready</b> full-stack applications. I don't just write code; I ship containerized systems using <b>Docker</b>, automate deployments via <b>CI/CD pipelines</b>, and architect scalable backends with <b>Next.js</b> and <b>MERN</b>.
+  MERN Stack Developer Possess strong skills in team collaboration, project coordination, and problem-solving, gained through academic projects, industrial experience, and freelancing. Currently seeking opportunities to apply my skills in developing innovative, user-focused solutions and contributing to impactful projects in a collaborative environment.
 </p>
 
 ---

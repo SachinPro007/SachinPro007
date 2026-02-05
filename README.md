@@ -55,12 +55,12 @@ High-performance portfolio showcasing advanced Docker optimization.
 - **Performance:** Achieved an ultra-lightweight Docker image size of **82MB**.
 - **Tech:** React, Framer Motion, Nginx, Docker.
 
-#### 🔒 Next.js Full-Stack System
+#### 🔒 [Next.js Full-Stack System](https://full-stack-todo-gray.vercel.app/)
 Production-grade application focusing on strict security.
 - **Core:** Next.js Server Actions, MySQL, and Custom Auth.
 - **Security:** Tamper-proof sessions with HMAC verification and Bcrypt hashing.
 
-#### 🛒 ShopEase E-Commerce
+#### 🛒 [ShopEase E-Commerce](https://shopease-ecomm.netlify.app/)
 Scalable eCommerce UI achieving **90+ Lighthouse scores**.
 - **Tech:** React, Redux Toolkit, TanStack Query.
 - **Features:** Debounced search, advanced caching, and sub-second load times.
